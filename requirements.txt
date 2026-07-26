@@ -1,0 +1,10 @@
+pypdf
+pdfplumber
+langchain
+langchain-community
+sentence-transformers
+rank-bm25
+pinecone
+groq
+streamlit
+python-dotenv
